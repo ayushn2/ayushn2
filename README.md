@@ -14,3 +14,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=ayushn2&icon=2&color=0)](https://visitcount.itsvg.in)
 
+![GitHub Contribution Snake](https://github.com/ayushn2/ayushn2/blob/output/github-contribution-grid-snake.svg)
