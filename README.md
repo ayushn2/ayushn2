@@ -24,6 +24,7 @@
   ![React Three Fiber](https://img.shields.io/badge/react_three_fiber-%23202c37.svg?style=for-the-badge&logo=react&logoColor=61DAFB)  
    
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
+  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   
   
 </div>
