@@ -22,9 +22,9 @@
   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
   ![React Three Drei](https://img.shields.io/badge/react_three_drei-%233d4f7c.svg?style=for-the-badge&logo=react&logoColor=61DAFB) 
   ![React Three Fiber](https://img.shields.io/badge/react_three_fiber-%23202c37.svg?style=for-the-badge&logo=react&logoColor=61DAFB)  
-   
-  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
+  
   
   
 </div>
