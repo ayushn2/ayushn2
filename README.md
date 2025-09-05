@@ -12,6 +12,7 @@
   ![Go](https://img.shields.io/badge/go-%2300add8.svg?style=for-the-badge&logo=go&logoColor=white) 
   ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) 
   ![Huff](https://img.shields.io/badge/Huff-%23000000.svg?style=for-the-badge&logoColor=white)
+  ![Noir](https://img.shields.io/badge/Noir-%23000000.svg?style=for-the-badge&logo=aztec&logoColor=white)
   ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
