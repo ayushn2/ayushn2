@@ -38,7 +38,7 @@
   
 
 
-## 🏆GitHub Trophies
+
 ![](https://github-trophies.vercel.app/?username=ayushn2&theme=dark_dimmed&no-frame=true&no-bg=false&margin-w=4)
 
 
