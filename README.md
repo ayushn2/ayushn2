@@ -1,6 +1,11 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Ayush Nainwal](https://www.linkedin.com/in/ayush-nainwal-070ba9255/)) 
 
+  # 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=ayushn2&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ayushn2&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushn2&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 # 💻 Tech Stack
 
 <div style="display: flex; justify-content: center; flex-wrap: wrap;">
@@ -30,12 +35,26 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
   
   
+
+
+
+
+### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+### 😂Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
+
+---
+
+
   
 </div>
 </div>
 
 
-![](https://github-profile-trophy.vercel.app/?username=ayushn2&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## 🏆GitHub Trophies
+![](https://github-trophies.vercel.app/?username=ayushn2&theme=dark_dimmed&no-frame=true&no-bg=false&margin-w=4)
 
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
