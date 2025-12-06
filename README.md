@@ -1,7 +1,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Ayush Nainwal](https://www.linkedin.com/in/ayush-nainwal-070ba9255/)) 
 
-  # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=ayushn2&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ayushn2&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushn2&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
@@ -39,10 +38,9 @@
 
 
 
-### ✍️Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 😂Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
