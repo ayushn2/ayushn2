@@ -17,6 +17,7 @@
   
 ![Go](https://img.shields.io/badge/go-%2300add8.svg?style=for-the-badge&logo=go&logoColor=white) 
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) 
+![Daml](https://img.shields.io/badge/Daml-%23007ACC.svg?style=for-the-badge&logoColor=white)
 ![Huff](https://img.shields.io/badge/Huff-%23000000.svg?style=for-the-badge&logoColor=white)
 ![Noir](https://img.shields.io/badge/Noir-%23000000.svg?style=for-the-badge&logo=aztec&logoColor=white)
 ![Circom](https://img.shields.io/badge/Circom-%23007ACC.svg?style=for-the-badge&logo=zk&logoColor=white)
